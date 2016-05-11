@@ -13,7 +13,7 @@ public class Correo {
 	
 	public Correo() {
 		
-		this ("email@email.com");
+		this ("email@gmail.com");
 	}
 
 
